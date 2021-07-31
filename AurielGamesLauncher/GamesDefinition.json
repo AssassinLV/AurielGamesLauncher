@@ -1,0 +1,254 @@
+{
+  "Projects": [
+    {
+      "Name": "Silicon Lust",
+      "CurrentOrderType": 1,
+      "PrimaryOrderName": "Chronological order",
+      "PrimaryOrderDescription": "Orders games in chronological order",
+      "HideCompleted": true,
+      "Games": [
+        {
+          "Name": "Silicon Lust",
+          "PrimaryOrder": 1,
+          "IsFinished": false,
+          "ExecutableName": "OST_Game.exe",
+          "CheckSum": "598F05B49860A73589B8C59713FEE8FA"
+        }
+      ]
+    },
+    {
+      "Name": "Tails of Azeroth",
+      "CurrentOrderType": 1,
+      "PrimaryOrderName": "Chronological order",
+      "PrimaryOrderDescription": "Orders games in chronological order",
+      "SecundaryOrderName": "Semi-Chronological order",
+      "SecundaryOrderDescription": "Orders games in chronological order, except BiB2 is last as it is in development",
+      "HideCompleted": true,
+      "Games": [
+        {
+          "Name": "ArchMage Alori",
+          "PrimaryOrder": 1,
+          "SecundaryOrder": 1,
+          "IsFinished": false,
+          "ExecutableName": "OST_Game.exe",
+          "CheckSum": "528BFBE640E7ABDF55636D5237750ADD"
+        },
+        {
+          "Name": "Blue is Better 2",
+          "PrimaryOrder": 3,
+          "SecundaryOrder": 6,
+          "IsFinished": false,
+          "ExecutableName": "OST_Game.exe",
+          "CheckSum": "598F05B49860A73589B8C59713FEE8FA"
+        },
+        {
+          "Name": "Blues is Better",
+          "PrimaryOrder": 2,
+          "SecundaryOrder": 2,
+          "IsFinished": false,
+          "ExecutableName": "OST_Game.exe",
+          "CheckSum": "5826685093BCCE1A96DF0A2506F458AC"
+        },
+        {
+          "Name": "Joyous Reunion",
+          "PrimaryOrder": 6,
+          "SecundaryOrder": 5,
+          "IsFinished": false,
+          "ExecutableName": "OST_Game.exe",
+          "CheckSum": "EEB59BE0C513E3E499E23A296F2B636B"
+        },
+        {
+          "Name": "Lewd Red Riding Hoof",
+          "PrimaryOrder": 5,
+          "SecundaryOrder": 4,
+          "IsFinished": false,
+          "ExecutableName": "OST_Game.exe",
+          "CheckSum": "EEB59BE0C513E3E499E23A296F2B636B"
+        },
+        {
+          "Name": "Rekindling of the Red",
+          "PrimaryOrder": 4,
+          "SecundaryOrder": 3,
+          "IsFinished": false,
+          "ExecutableName": "OST_Game.exe",
+          "CheckSum": "2416C5E1E1A9DE93DBBF1A612E4CD5EB"
+        }
+      ]
+    },
+    {
+      "Name": "Whorecraft",
+      "CurrentOrderType": 1,
+      "PrimaryOrderName": "Chronological order",
+      "PrimaryOrderDescription": "Orders games in chronological order",
+      "HideCompleted": true,
+      "Games": [
+        {
+          "Name": "Chapter I Episode 1 (1st remake unfinished)",
+          "PrimaryOrder": 7,
+          "IsFinished": false,
+          "PathFromLocationToExe": "Binaries\\Win32",
+          "ExecutableName": "UDK.exe",
+          "CheckSum": "C7D76CABF9FD523C805BFC3380F230C9"
+        },
+        {
+          "Name": "Chapter I Episode 1 (2nd remake)",
+          "PrimaryOrder": 1,
+          "IsFinished": false,
+          "ExecutableName": "OST_Game.exe",
+          "CheckSum": "5439C54AED2933486A649B35378D4A7E"
+        },
+        {
+          "Name": "Chapter I Episode 1 (Original)",
+          "PrimaryOrder": 6,
+          "IsFinished": false,
+          "PathFromLocationToExe": "Binaries\\Win32",
+          "ExecutableName": "UDK.exe",
+          "CheckSum": "03B790E19F21EB89138E46D2C53F8644"
+        },
+        {
+          "Name": "Chapter I Episode 2",
+          "PrimaryOrder": 2,
+          "IsFinished": false,
+          "PathFromLocationToExe": "Binaries\\Win32",
+          "ExecutableName": "UDK.exe",
+          "CheckSum": "BB743B6D1014D000187DD4F046D26BA5"
+        },
+        {
+          "Name": "Chapter I Episode 3",
+          "PrimaryOrder": 3,
+          "IsFinished": false,
+          "PathFromLocationToExe": "Binaries\\Win32",
+          "ExecutableName": "UDK.exe",
+          "CheckSum": "BB743B6D1014D000187DD4F046D26BA5"
+        },
+        {
+          "Name": "Chapter I Episode 4",
+          "PrimaryOrder": 4,
+          "IsFinished": false,
+          "PathFromLocationToExe": "Binaries\\Win32",
+          "ExecutableName": "UDK.exe",
+          "CheckSum": "BB743B6D1014D000187DD4F046D26BA5"
+        },
+        {
+          "Name": "Chapter I Episode 5",
+          "PrimaryOrder": 5,
+          "IsFinished": false,
+          "PathFromLocationToExe": "Binaries\\Win32",
+          "ExecutableName": "UDK.exe",
+          "CheckSum": "BB743B6D1014D000187DD4F046D26BA5"
+        }
+      ]
+    },
+    {
+      "Name": "Whorecraft II",
+      "CurrentOrderType": 1,
+      "PrimaryOrderName": "Chronological order",
+      "PrimaryOrderDescription": "Orders games in chronological order",
+      "HideCompleted": true,
+      "Games": [
+        {
+          "Name": "Chapter II Episode 1",
+          "PrimaryOrder": 1,
+          "IsFinished": false,
+          "PathFromLocationToExe": "Binaries\\Win32",
+          "ExecutableName": "UDK.exe",
+          "CheckSum": "C7D76CABF9FD523C805BFC3380F230C9"
+        },
+        {
+          "Name": "Chapter II Episode 2 - Prologue",
+          "PrimaryOrder": 2,
+          "IsFinished": false,
+          "ExecutableName": "OST_Game.exe",
+          "CheckSum": "669B278B0AC0EBA2640C1EEBF53268C4"
+        },
+        {
+          "Name": "Chapter II Episode 2",
+          "PrimaryOrder": 3,
+          "IsFinished": false,
+          "ExecutableName": "OST_Game.exe",
+          "CheckSum": "5439C54AED2933486A649B35378D4A7E"
+        },
+        {
+          "Name": "Chapter II Episode 3",
+          "PrimaryOrder": 4,
+          "IsFinished": false,
+          "ExecutableName": "OST_Game.exe",
+          "CheckSum": "6D0F9E16640A71AD02820E7291666C87"
+        },
+        {
+          "Name": "Chapter II Epilogue",
+          "PrimaryOrder": 5,
+          "IsFinished": false,
+          "ExecutableName": "OST_Game.exe",
+          "CheckSum": "6D0F9E16640A71AD02820E7291666C87"
+        }
+      ]
+    },
+    {
+      "Name": "XMAS SPECIALS",
+      "CurrentOrderType": 1,
+      "PrimaryOrderName": "Yearly order",
+      "PrimaryOrderDescription": "Orders games by year",
+      "HideCompleted": true,
+      "Games": [
+        {
+          "Name": "XXXMas 1 (2013)",
+          "PrimaryOrder": 1,
+          "IsFinished": false,
+          "PathFromLocationToExe": "Binaries\\Win32",
+          "ExecutableName": "UDK.exe",
+          "CheckSum": "BB743B6D1014D000187DD4F046D26BA5"
+        },
+        {
+          "Name": "XXXMas 2 (2014)",
+          "PrimaryOrder": 2,
+          "IsFinished": false,
+          "ExecutableName": "OST_Game.exe",
+          "CheckSum": "669B278B0AC0EBA2640C1EEBF53268C4"
+        },
+        {
+          "Name": "XXXMas 3 (2015)",
+          "PrimaryOrder": 3,
+          "IsFinished": false,
+          "ExecutableName": "OST_Game.exe",
+          "CheckSum": "C80A60ADDA7F654FCFC703BECB31E752"
+        },
+        {
+          "Name": "XXXMas 4 (2016)",
+          "PrimaryOrder": 4,
+          "IsFinished": false,
+          "ExecutableName": "OST_Game.exe",
+          "CheckSum": "5BA9561770B7184CCD2F82DC721EA525"
+        },
+        {
+          "Name": "XXXMas 5 (2017)",
+          "PrimaryOrder": 5,
+          "IsFinished": false,
+          "ExecutableName": "OST_Game.exe",
+          "CheckSum": "1D9BA69EB375DBF503E850483618F8D2"
+        },
+        {
+          "Name": "XXXMas 6 (2018)",
+          "PrimaryOrder": 6,
+          "IsFinished": false,
+          "ExecutableName": "OST_Game.exe",
+          "CheckSum": "EEB59BE0C513E3E499E23A296F2B636B"
+        },
+        {
+          "Name": "XXXMas 7 (2019)",
+          "PrimaryOrder": 7,
+          "IsFinished": false,
+          "ExecutableName": "OST_Game.exe",
+          "CheckSum": "EEB59BE0C513E3E499E23A296F2B636B"
+        },
+        {
+          "Name": "XXXMas 8 (2020)",
+          "PrimaryOrder": 8,
+          "IsFinished": false,
+          "ExecutableName": "OST_Game.exe",
+          "CheckSum": "598F05B49860A73589B8C59713FEE8FA"
+        }
+      ]
+    }
+  ]
+}
